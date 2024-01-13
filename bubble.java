@@ -46,7 +46,7 @@ public class bubble{
 bubble sort :traverse from left and compare adjacent elements and the higher one is placed at right side. 
             :also known as :sinking / exchange sort
 
-space complexity :  O(n) : no extra space is required 
+space complexity :  O(1) : no extra space is required 
 Time complexity :   Best case : O(n) 
                     worst case : O(n^2)  
 
