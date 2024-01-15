@@ -8,7 +8,7 @@ public class merge_sort{
         System.out.println(Arrays.toString(arr));
 
     }
-
+    // if array has only one element
     static int[] merge_sort(int[] arr){
         if(arr.length == 1){
             return arr;
@@ -62,3 +62,5 @@ public class merge_sort{
         return mix;
     }
 }
+
+//merge sort : Based On Divide and conquer algorithm 
