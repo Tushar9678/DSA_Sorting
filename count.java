@@ -6,7 +6,7 @@ public class count{
 
         int max=0;
 
-        //find the maximum value in the array 4, 2, 2, 8, 3, 3, 1 
+        //find the maximum value in the array 
 
         for(int num : arr ){
             if(num> max){
